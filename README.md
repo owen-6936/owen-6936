@@ -118,7 +118,7 @@ Currently diving deep into **C++**, **ESP32-S3**, **AI agentic systems**, and **
 ### 💡 Philosophy
 <div align="center">
 <div align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_mocha&border=true&quote=Multiple%20simplicities%20helps%20build%20multiple%20flexible%20complexities.&author=Owen%20Erhabor" alt="Philosophy Quote"/> </div>
- <h3>🚀 Let’s build something amazing together!</h3> <img src="https://komarev.com/ghpvc/?username=Shishir-Srivastav&label=Profile%20Views&color=brightgreen&style=for-the-badge"/>
+ <h3>🚀 Let’s build something amazing together!</h3> <img src="https://komarev.com/ghpvc/?username=owen-6936&label=Profile%20Views&color=brightgreen&style=for-the-badge"/>
 
 ⭐ Star my repositories if you find them helpful!
 </div>
