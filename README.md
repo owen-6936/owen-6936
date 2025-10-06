@@ -80,8 +80,11 @@ Currently diving deep into **C++**, **ESP32-S3**, **AI agentic systems**, and **
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Owen-6936&show_icons=true&theme=tokyonight" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Owen-6936&layout=compact&theme=tokyonight" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Owen-6936&show_icons=true&theme=tokyonight" height="165"/>
 </p>
 
 <p align="center">
